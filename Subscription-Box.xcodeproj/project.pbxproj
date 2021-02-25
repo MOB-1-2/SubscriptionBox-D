@@ -40,7 +40,6 @@
 		4DE7082324621D6000317EBD /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE7082224621D6000317EBD /* HomeViewController.swift */; };
 		4DE7082524621D7600317EBD /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE7082424621D7600317EBD /* NewViewController.swift */; };
 		4DE7082724621D8600317EBD /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE7082624621D8600317EBD /* HistoryViewController.swift */; };
-		4DE7082924621D9700317EBD /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE7082824621D9700317EBD /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,7 +78,6 @@
 		4DE7082224621D6000317EBD /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		4DE7082424621D7600317EBD /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		4DE7082624621D8600317EBD /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
-		4DE7082824621D9700317EBD /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,7 +146,6 @@
 				4DE7082224621D6000317EBD /* HomeViewController.swift */,
 				4DE7082424621D7600317EBD /* NewViewController.swift */,
 				4DE7082624621D8600317EBD /* HistoryViewController.swift */,
-				4DE7082824621D9700317EBD /* ProfileViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -285,7 +282,6 @@
 				4DE7082524621D7600317EBD /* NewViewController.swift in Sources */,
 				4D2088C32446C03A00E7EC32 /* SceneDelegate.swift in Sources */,
 				4D1607B3246F815B0005218E /* PastBoxCell.swift in Sources */,
-				4DE7082924621D9700317EBD /* ProfileViewController.swift in Sources */,
 				4DB1D175246CF35300CC64CA /* FavoritesSection.swift in Sources */,
 				4DB1D183246CF63400CC64CA /* TitleCell.swift in Sources */,
 				4DB1D173246CF34200CC64CA /* FeaturedSection.swift in Sources */,
