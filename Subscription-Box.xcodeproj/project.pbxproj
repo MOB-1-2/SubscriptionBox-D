@@ -22,6 +22,7 @@
 		4D2088DD2446C39300E7EC32 /* SwipeControllerCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2088DC2446C39300E7EC32 /* SwipeControllerCollectionView.swift */; };
 		4D2117F42597162A00274F42 /* GridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2117F32597162A00274F42 /* GridCell.swift */; };
 		4D2117F72597163000274F42 /* GridCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D2117F62597163000274F42 /* GridCell.xib */; };
+		4D6B708925E72B6E006B2878 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6B708825E72B6E006B2878 /* ProfileViewController.swift */; };
 		4DB1D16F246CF31A00CC64CA /* BasicGridSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB1D16E246CF31A00CC64CA /* BasicGridSection.swift */; };
 		4DB1D171246CF32D00CC64CA /* TitleSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB1D170246CF32D00CC64CA /* TitleSection.swift */; };
 		4DB1D173246CF34200CC64CA /* FeaturedSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB1D172246CF34200CC64CA /* FeaturedSection.swift */; };
@@ -60,6 +61,7 @@
 		4D2088DC2446C39300E7EC32 /* SwipeControllerCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeControllerCollectionView.swift; sourceTree = "<group>"; };
 		4D2117F32597162A00274F42 /* GridCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridCell.swift; sourceTree = "<group>"; };
 		4D2117F62597163000274F42 /* GridCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GridCell.xib; sourceTree = "<group>"; };
+		4D6B708825E72B6E006B2878 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProfileViewController.swift; path = ../../../../.Trash/ProfileViewController.swift; sourceTree = "<group>"; };
 		4DB1D16E246CF31A00CC64CA /* BasicGridSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGridSection.swift; sourceTree = "<group>"; };
 		4DB1D170246CF32D00CC64CA /* TitleSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleSection.swift; sourceTree = "<group>"; };
 		4DB1D172246CF34200CC64CA /* FeaturedSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedSection.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				4DE7082224621D6000317EBD /* HomeViewController.swift */,
 				4DE7082424621D7600317EBD /* NewViewController.swift */,
 				4DE7082624621D8600317EBD /* HistoryViewController.swift */,
+				4D6B708825E72B6E006B2878 /* ProfileViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				4DB1D173246CF34200CC64CA /* FeaturedSection.swift in Sources */,
 				4DB1D171246CF32D00CC64CA /* TitleSection.swift in Sources */,
 				4DE7081F2461E0EF00317EBD /* SimpleTextField.swift in Sources */,
+				4D6B708925E72B6E006B2878 /* ProfileViewController.swift in Sources */,
 				4DB1D16F246CF31A00CC64CA /* BasicGridSection.swift in Sources */,
 				4DE7082324621D6000317EBD /* HomeViewController.swift in Sources */,
 			);
